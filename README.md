@@ -47,6 +47,7 @@ Execute the programs and publish them.
 </html>
 ```
 ## OUTPUT
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 152551" src="https://github.com/user-attachments/assets/4c6bcfc1-ebc5-4408-9492-81e59d8c5d29" />
 
 
 
